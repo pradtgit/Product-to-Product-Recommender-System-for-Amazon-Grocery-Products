@@ -137,7 +137,5 @@ For sparse-graph products, **text embeddings are the primary signal**; Review-CF
 
 ---
 
-## Author
-
 **Pradnya Tendolkar** — G45312425  
 Applied Machine Learning — Final Project
