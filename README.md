@@ -14,6 +14,8 @@ Each product is modeled as a **node in a graph**; the task is **link prediction*
 
 ## Dataset
 
+Dataset Link (Grocery and Gourmet Food) : https://nijianmo.github.io/amazon/index.html
+
 | Metric | Value |
 |---|---|
 | Products (nodes) | 11,295 (largest connected component) |
